@@ -1,6 +1,6 @@
 # Bootstrap + SASS + GulpJS (**~90%**)
 
-![Alt text](https://github.com/origarti/kickstarterZ/blob/master/bootstrap_sass/www/dist/pic/header-bootstrap-sass.jpg?raw=true "Optional title")
+![Alt text](https://github.com/origarti/-Starter-Bootstrap-SASS/blob/master/www/dist/pic/header-bootstrap-sass.jpg?raw=true")
 
 # Bienvenue !
 
